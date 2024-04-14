@@ -25,7 +25,7 @@ Before using this script, ensure that you have the following prerequisites in pl
 4. Run the script by executing the following command:
 
     ```bash
-    python price_mart_scraper.py
+    python main.py
     ```
 
 5. The script will scrape product information from the PriceMart website and save the data in a CSV file (`<config_filename>.csv`) in the same directory.
